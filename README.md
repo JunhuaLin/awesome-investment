@@ -8,3 +8,6 @@
 - [yfinance](https://github.com/ranaroussi/yfinance) - 从Yahoo下载交易数据的API库
 - [baostock](http://www.baostock.com) - 证券宝www.baostock.com是一个免费、开源的证券数据平台（无需注册）。
 
+# 量化交易
+
+- [joinquant](https://www.joinquant.com/) - 量化投研, 从聚宽开始，聚宽量化交易平台。
