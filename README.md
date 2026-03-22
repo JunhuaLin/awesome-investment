@@ -1,14 +1,90 @@
-# awesome-investment
+# Awesome Investment [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# 数据源
+Curated list of investment &amp; finance related resources
 
-- [pywencai](https://github.com/zsrl/pywencai) - 获取同花顺问财数据
-- [akshare](https://akshare.akfamily.xyz/introduction.html) - AKShare 是基于 Python 的财经数据接口库，目的是实现对股票、期货、期权、基金、外汇、债券、指数、加密货币等金融产品的基本面数据、实时和历史行情数据、衍生数据从数据采集、数据清洗到数据落地的一套工具，主要用于学术研究目的。
-- [aktools](https://github.com/akfamily/aktools) - AKTools 是一款用于快速搭建 AKShare HTTP API 的工具，通过 AKTools 可以利用一行命令来启动 HTTP 服务，从而让原本专属服务于 Python 用户的开源财经数据接口库 AKShare 的使用 突破编程语言的限制。无论您使用的是 C/C++、Java、Go、Rust、Ruby、PHP、JavaScript、R、Matlab、Stata 等编程语言或软件都可以快速、轻松获取财经数据，助力您更好地展开研究和开发工作。
-- [yfinance](https://github.com/ranaroussi/yfinance) - 从Yahoo下载交易数据的API库
-- [efinance](https://github.com/Micro-sheep/efinance) - efinance 是一个可以快速获取基金、股票、债券、期货数据的 Python 库，回测以及量化交易的好帮手！🚀🚀🚀
-- [baostock](http://www.baostock.com) - 证券宝www.baostock.com是一个免费、开源的证券数据平台（无需注册）。
+##### Disclaimer: 
+The content is for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice.  Your use of third party web sites linked in this list and content, including without limitation, your use of any information, data, advertising, products, or other materials on or available through such sites, AT YOUR OWN RISK AND SUBJECT TO THEIR TERMS OF USE.
 
-# 量化交易
+# Tools
+## General
+* [finance.yahoo.com/](https://finance.yahoo.com/) Stocks, indexes, screeners, news.
+* [finviz.com](https://finviz.com) Screener, maps, portfolio.
+* [freestockcharts.com](https://www.freestockcharts.com/)
+* [ghostfol.io](https://ghostfol.io/) Open Source Wealth Management Software: Stocks, etfs, cryptocurrencies, asset allocation.
+* [investing.com](https://in.investing.com/) Markets, charts, portfolio, tools and more.
+* [investfunds.ru](https://investfunds.ru/) Markets, charts, ETFs. 
+* [gurufocus.com](https://www.gurufocus.com) Stocks, screeners by sector, etc.
+* [google.com/finance](https://www.google.com/finance) Stocks, indexes, news, etc.
+* [marketinout.com](https://www.marketinout.com/) Stocks, screners, f-score, m-score, etc.
+* [morningstar.com](https://www.morningstar.com/) Markets, plans, stocks, etc.
+* [researchaffiliates.com](https://interactive.researchaffiliates.com/asset-allocation) asset allocation, cape analysis, etc.
+* [rusetfs.com](https://rusetfs.com/) Compare ru etfs.
+* [seekingalpha.com](https://seekingalpha.com) Markets, stocks, dividends, etfs.
+* [smart-lab.ru](https://smart-lab.ru/) Trading signals, analytics, books, discussions, 
+* [solactive.com](https://www.solactive.com/indices/) Indices.
+* [stockcharts.com](https://stockcharts.com/) Charts, maps of major indexes.
+* [trades.mindspace.ru](https://trades.mindspace.ru/) - Broad US market overview.
+* [tradingview.com](https://ru.tradingview.com/) Markets, stocks, scripts, charts.
+* [ycharts.com](https://ycharts.com/) Stocks analysis, charts, news.
+* [zoonova.com](https://www.zoonova.com/) Analysis of etfs, stocks, charts, news etc.
 
-- [joinquant](https://www.joinquant.com/) - 量化投研, 从聚宽开始，聚宽量化交易平台。
+## Investment Principles & Frameworks
+* [Investment Principles Toolkit](https://github.com/henu-wang/investment-principles-toolkit) Curated collection of investment principles, Python tools, and decision frameworks from Buffett, Munger, Graham, and more.
+
+## Portfolios
+* [okama.io](https://okama.io/#/lazy-portfolios) Portfolios backtesting.
+* [portfoliocharts.com](https://portfoliocharts.com/) Portfolios backtesting and statistics.
+* [portfoliovisualizer.com](https://www.portfoliovisualizer.com/) Portfolios backtesting, analyssis, asset allocation and more.
+
+## Dividens
+* [dividend.com](https://www.dividend.com/) High yeld stocks, best dividend stocks, screener, strategies, tools.
+* [investfunds.ru](https://investfunds.ru/stocks-leaders/) Stocks leaders, dividends, capitalization.
+* [nasdaq.com/dividend-stocks](https://www.nasdaq.com/dividend-stocks/) Dividend calendar, dividends, earnings.
+* [dohod.ru](https://www.dohod.ru/ik/analytics/dividend/) Dividend calendar for Ru stocks, ru stocks screener, dividends, earnings.
+
+## Etfs
+* [etf.com](https://www.etf.com/) Etfs finder, screener, database etc.
+* [etfdb.com](https://etfdb.com/) Etf database, screener, comparison tools.
+* [lazyportfolioetf.com](https://www.lazyportfolioetf.com/) Lazy portfolios comparison, statistics, etc.
+* [rusetfs.com](https://rusetfs.com/) Comparison of ru etfs, mutual funds, etc.
+* [ETF Options Dashboard](https://dashboard.nbshare.io/apps/options/top-etf-options-by-open-interest/) Daily Top ETF Options By Open Interest
+
+# Social media
+## Ru blogs
+* [assetallocation.ru](https://assetallocation.ru/) Passive investing, books, tests, videos.
+* [elliotwave.org](https://elliotwave.org/) Wave and technical analysis of markets.
+* [hranidengi.ru](https://hranidengi.ru) Bank deposits, brokers.
+* [investfuture.ru](https://investfuture.ru/) News, analytics, stocks, indexes, calendars, brokers, funds.
+* [mindspace.ru](https://mindspace.ru/) Trading, investing, technical analysis, brokers.
+* [sostoyanie.com](https://sostoyanie.com/) Personal investing. 
+* [qbfam.ru](https://www.qbfam.ru/analytics/reviews/aktsii-rosta-vs-ctoimostnye-aktsii/) Analytics, stategies, markets, etfs to choose.
+
+## Ru channels
+* [Александр Князев](https://www.youtube.com/channel/UC-cAmiU9BnwkmbhuNoB3UHQ)
+* [Вредный инвестор](https://www.youtube.com/channel/UCbhXz_OPX3B0eTimt24PGVQ)
+* [Дмитрий Солодин](https://www.youtube.com/channel/UCDiQvcLWE_afxVzGzdCxxYA)
+* [Миша инвестирует](https://www.youtube.com/channel/UCTM-tGx3sNZBYbOyXjAd0sQ)
+* [Красный Циркуль](https://www.youtube.com/channel/UCxbe14qPgfkawAHZSi_8RZg)
+* [Опыт инвестора](https://www.youtube.com/channel/UC7RMUZkM3FPGFgQXqN8gB9A)
+* [Проект FinWebinar](https://www.youtube.com/channel/UCpFFEzNskcqWf1E3D-WkdUg)
+* [Рост Сбережений](https://www.youtube.com/channel/UCOFW-XKXttGopIFx2N-jSvg)
+* [Сергей Елисеев](https://www.youtube.com/channel/UCSdSBG3MRqhiZv4S1wO39SQ)
+* [Финансовая независимость](https://www.youtube.com/channel/UCnyA5zdwYr8B_mVxSOkKuOg)
+* [InvestFuture](https://www.youtube.com/channel/UC-WK8QlQJpAROCrO7dRvqcw)
+* [MoneyPapa](https://www.youtube.com/channel/UC8aAReoktSVKgTt7jUAM5QA)
+* [Oxana Gafaiti](https://www.youtube.com/user/mindspaceru)
+* [RationalAnswer](https://www.youtube.com/channel/UCI_10IRftFes3lxlTVEjTzg)
+* [Trin Invest](https://www.youtube.com/channel/UC7Uxxthe_yNgcGa7Ted8kMQ)
+* [World Business Channel](https://www.youtube.com/channel/UCcqgJ3jF6UG8ea26kF2-5sg)
+
+## En channels
+* [CiovaccoCapital](https://www.youtube.com/user/CiovaccoCapital)
+* [Graham Stephan](https://www.youtube.com/channel/UCV6KDgJskWaEckne5aPA0aQ)
+* [Learn to invest](https://www.youtube.com/channel/UCSglJMvX-zSgv3PEJIE_inw)
+* [Michael Jay - Value Investing](https://www.youtube.com/channel/UC7dBqDNlwMfHupqgJvPFZPg)
+* [MICHAEL DERISO - 0 to Infinity](https://www.youtube.com/channel/UCecHI3qhgbMMnDQQb0_tuPg)
+* [shadowtrader01](https://www.youtube.com/channel/UCV00elXN8Z0vrFIAZu3rIKw)
+* [TheStockGuy](https://www.youtube.com/c/TheStockGuy)
+* [WisdomInvestor](https://www.youtube.com/user/wisdominvestor)
+
+
